@@ -2,7 +2,7 @@
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
 
-https://play.workadventu.re/_/global/example.com/my/map.json
+https://play.workadventu.re/_/global/https://tjingz.github.io/workrC3/map.json
 
 ## Tools you will need
 
