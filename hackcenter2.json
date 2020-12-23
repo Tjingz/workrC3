@@ -105,7 +105,7 @@
          "tiles":[
                 {
                  "id":0,
-                 "image":"..\/..\/Users\/draese\/Documents\/GitHub\/workadventure-maps\/cccfr\/hackcenter\/house_inside.png",
+                 "image":"house_inside.png",
                  "imageheight":448,
                  "imagewidth":512
                 }],
@@ -114,7 +114,7 @@
         {
          "columns":10,
          "firstgid":2,
-         "image":"..\/..\/Users\/draese\/Documents\/GitHub\/workrC3\/my_cccfr_walls.png",
+         "image":"my_cccfr_walls.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
